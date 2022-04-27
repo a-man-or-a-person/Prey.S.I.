@@ -1,0 +1,125 @@
+body {
+    font-family: sans-serif;
+    background-color: black;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px;
+    margin-bottom: 20px;
+}
+footer{
+    background-color: black;
+}
+
+.button1 {
+    margin-top: 15px;
+    background-color: black;
+    color: white;
+    text-decoration: none;
+    padding: 25px 50px 0px 45px;
+    width: 150px;
+    height: 50px;
+    font-size: 15px;
+    border-radius: 0px;
+    display: block;
+    border: 1px solid gray;
+    letter-spacing: 1px;
+}
+.button {
+    margin-top: 15px;
+    background-color: black;
+    color: white;
+    text-decoration: none;
+    padding: 25px 70px 0px 70px;
+
+    height: 50px;
+    font-size: 15px;
+    border-radius: 0px;
+    display: block;
+    border: 1px solid gray;
+    letter-spacing: 3px;
+}
+.button:hover{
+    transition: 1s color linear;
+    color: rgb(175, 28, 28);
+}
+.button1:hover{
+    transition: 1s color linear;
+    color: rgb(175, 28, 28);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.pppp:hover{
+    
+    display: block;
+    content: url("https://99px.ru/sstorage/86/2017/05/11905171952114891.gif");
+    
+
+}
+.ppp:hover{
+    
+    display: block;
+    content: url("https://i.gifer.com/AqcL.gif");
+    
+
+}
+summary:hover + #detail, #detail:hover {
+    display: block;
+}
+detail {
+    display: none;
+}
+.one{
+    background-image: url("https://images.ctfassets.net/rporu91m20dc/6vWTTNCt0qxcmIALTIobY8/df5a93434321f5f6910592b7b4000aca/prey-m-hero-960.jpg?q=70&q=70&fm=webp") ;
+    height: auto;
+    width: auto;
+}
+.PREY{
+    display: flex;
+    justify-content:center;
+    position: relative;
+    top: 250px;
+}
+.prey11{
+    height: 30%;
+    width: 30%;
+}
+.preymoon1{
+    height: 30%;
+    width: 30%;
+}
+.video{
+    position: relative;
+    bottom: 120px;
+}
+.main games{
+
+
+}
+.prey1{
+    display: flex ;
+    justify-content: space-around;
+}
