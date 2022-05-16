@@ -1,0 +1,200 @@
+body {
+    font-family: sans-serif;
+    background-color: black;
+}
+.postAl {
+    background-color: black;
+    max-width: 300px;
+
+}
+.postXl {
+    background-color: black;
+    max-width: 300px;
+
+}
+.postMl {
+    background-color: black;
+    max-width: 300px;
+
+}
+.txt3{
+    font-family: "FreeMono", monospace;
+    color: white;
+    width: 50px;
+
+
+}
+.txt3c{
+    font-family: "FreeMono", monospace;
+    color: white;
+    max-width: 200px;
+    color: blue;
+
+
+}
+
+
+footer{
+    background-color: black;
+}
+.actors{
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+}
+
+
+nav{
+    display: flex;
+    justify-content: space-around;
+    padding-bottom: 50px;
+}
+.nav-link{
+    text-decoration: none;
+    color: white;
+    background-color: black;
+    font-size: 15px;
+    border-radius: 0px;
+    
+    border: 1px solid gray;
+    letter-spacing: 1px;
+    padding: 15px 25px 15px 25px;
+}
+.nav-link:hover{
+    color: grey;
+}
+.head1{
+    display: flex;
+    justify-content: center;
+}
+.logo{
+    height: 100%;
+    width: 100%;
+
+}
+.logo1{
+    height: 30%;
+    width: 30%;
+}
+.head{
+    display: flex;
+    justify-content: flex-start;
+}
+.main{
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 100px;   
+}
+.txt1{
+    font-family: "FreeMono", monospace;
+    color: white;
+    max-width: 650px;
+    margin:0px 20px 0px 20px ;
+}
+
+.photo1{
+    height: 100%;
+    width: 100%;
+}
+.photo2{
+    height: 30%;
+    width: 30%;
+}
+.photo4{
+    height: 30%;
+    width: 30%;
+}
+.photo3{
+    height: 100%;
+    width: 100%;
+    filter: brightness(190%);
+}
+.anchor{
+    height: 10%;
+    width: 10%;
+}
+.nav-link{
+    text-decoration: none;
+    color: white;
+    background-color: black;
+
+}
+.sum{
+    color: rgb(70, 70, 204);
+}
+
+.txt2{
+
+    position: relative;
+    bottom: 200px;
+    left: 100px;
+
+    font-family: "FreeMono", monospace;
+    color: white;
+    max-width: 650px;
+    margin:0px 20px 0px 20px ;
+    text-align: center;
+    box-align: center;
+
+}
+.lg1{
+    display: flex;
+    justify-content: center;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+
+
+
+
+
+
+
+.pppp:hover{
+    
+    display: block;
+    content: url("https://i.yapx.ru/Ry3BG.mp4");
+    
+
+}
+
+summary:hover + #detail, #detail:hover {
+    display: block;
+}
+
+.one{
+    background-image: url("https://images.ctfassets.net/rporu91m20dc/6vWTTNCt0qxcmIALTIobY8/df5a93434321f5f6910592b7b4000aca/prey-m-hero-960.jpg?q=70&q=70&fm=webp") ;
+    height: auto;
+    width: auto;
+}
+.PREY{
+    display: flex;
+    justify-content:center;
+    position: relative;
+    top: 250px;
+}
+.prey11{
+    height: 30%;
+    width: 30%;
+}
+.preymoon1{
+    height: 30%;
+    width: 30%;
+}
+.video{
+    position: relative;
+    bottom: 120px;
+}
+.main games{
+
+
+}
+.anchorr{
+    
+
+}
+.prey1{
+    display: flex ;
+    justify-content: space-around;
+}
