@@ -2,6 +2,9 @@ body {
     font-family: sans-serif;
     background-color: black;
 }
+.photo{
+    max-width:50%;
+}
 
 header {
     display: flex;
