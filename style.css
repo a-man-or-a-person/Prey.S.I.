@@ -3,7 +3,8 @@ body {
     background-color: black;
 }
 .photo{
-    max-width:50%;
+    max-width:30%;
+    height: auto;
 }
 
 header {
@@ -125,5 +126,5 @@ detail {
 .prey1{
     display: flex ;
     justify-content: space-around;
-    margin-top: 150px;
+    margin-top: 450px;
 }
